@@ -1,5 +1,5 @@
 <h2 align="left">Hello! My name is Caio and I'm a Web Developer, from Brazil 🇧🇷</h2>
-🎓 Currently studying Information Systems at Federal University Of Goiás<br>💻 Web Developer <br>🤖 Machine Learning Engineer <br>📚 Currently deepening knowledge in TensorFlow<br>
+🎓 Currently studying Information Systems at Federal University Of Goiás<br>💻 Web Developer <br>🤖 Machine Learning Engineer <br>📚 Currently deepening knowledge in PHP<br>
 
 
 # 💻 Tech Stack:
